@@ -1,0 +1,15 @@
+<meta>
+	<script src="utils.lua" type="client" cache="false" />
+	<script src="paint.lua" type="client" cache="false" />
+
+	<file src="img/bucket.png" />
+	<file src='img/pipette.png' />
+	<file src='img/pencil.png' />
+	<file src='img/brush.png' />
+	<file src='img/text.png' />
+	<file src="img/line.png" />
+	<file src="img/rubber.png" />
+	<file src="img/save.png" />
+
+	<oop>true</oop>
+</meta>
