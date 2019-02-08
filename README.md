@@ -35,7 +35,7 @@
 
 ## Po co to? ##
 
-**Zasób jest dość nie typowy, aczkolwiek to niczego nie zmienia. [b]Nigdy nie publikuję kodów z zamiarem, że ktoś ich użyje na serwerze. Udostępniając kod mam na celu dostarczyć go dla innych koderów, aby mogli się czegoś nowego nauczyć czy cos lepiej opanować.[/b] Bo szanujmy się na wzajem, przecież każdy kiedyś zaczynał, a nikt się od razu programistą nie urodził ;)**
+**Zasób jest dość nie typowy, aczkolwiek to niczego nie zmienia. Nigdy nie publikuję kodów z zamiarem, że ktoś ich użyje na serwerze. Udostępniając kod mam na celu dostarczyć go dla innych koderów, aby mogli się czegoś nowego nauczyć czy cos lepiej opanować. Bo szanujmy się na wzajem, przecież każdy kiedyś zaczynał, a nikt się od razu programistą nie urodził ;)**
 
 ## Info ##
 
