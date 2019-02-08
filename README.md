@@ -37,8 +37,12 @@
 
 **Zasób jest dość nie typowy, aczkolwiek to niczego nie zmienia. Nigdy nie publikuję kodów z zamiarem, że ktoś ich użyje na serwerze. Udostępniając kod mam na celu dostarczyć go dla innych koderów, aby mogli się czegoś nowego nauczyć czy cos lepiej opanować. Bo szanujmy się na wzajem, przecież każdy kiedyś zaczynał, a nikt się od razu programistą nie urodził ;)**
 
+**Ten opis ma na celu odpowiadać na pytanie 'Po co to udostepniasz, fajne ale nikt tego nie uzyje bo nie ma zastosowania'.**
+
 ## Info ##
 
 **Jeśli coś ode mnie chcesz, to znajdziesz mnie tutaj:**
+
 **Discord: FileEX#3656**
+
 **Email: fileex@int.pl LUB alkom@t.pl**
